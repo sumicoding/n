@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../my own game sprites"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my own game"
+	}
+}
